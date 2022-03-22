@@ -1,0 +1,24 @@
+FLUXOGRAMA, VARIÁVEIS E CONSTANTES
+
+
+Fluxograma:
+
+	Ferramenta utilizada para representar graficamente o algoritmo.
+	A sequência lógica e coerente do fluxo de dados.
+	Representação esquemática de um processo.
+	Documentação dos passos necessários para a execução de um processo qualquer.
+	Existem formas específicas para representar os blocos e ações dentro do fluxograma.
+
+Variáveis:
+
+	Variável é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão.
+	Também é um espaço na memória do computador destinado a um dado que é alterado durante a execução de um algoritmo.
+
+Constantes:
+
+	São valores imutáveis e não são alterados durante a vida útil do programa.
+
+Existem 4 tipos de variáveis e constantes: Numéricas, Caracteres, Alfanuméricas ou Lógicas.
+
+
+https://www.flowgorithm.org

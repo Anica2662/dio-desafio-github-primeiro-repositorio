@@ -1,0 +1,16 @@
+ALGORITMOS E PSEUDOCÓDIGOS
+
+Acesso sites: code.org
+	    proprofs.com
+
+	Algoritmo: Sequência de passos para resolver um problema. A ordem do algoritmo é importante e deve ser seguida.
+	
+	Pseudocódigo: Forma genérica de escrever um algoritmo utilizando linguagem simples (nativa).
+
+https://studio.code.org/s/mc/stage/1/puzzle/1
+(Resolver em menos de 1 hora)
+
+https://proprofs.com/games/wolf-sheep-and-cabbage/
+
+https://rachacuca.com.br/jogos/pinguins-numa-fria/
+(Escrever pseudocódigo)

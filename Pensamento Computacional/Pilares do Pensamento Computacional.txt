@@ -1,0 +1,138 @@
+PILARES DO PENSAMENTO COMPUTACIONAL
+
+
+DECOMPOSIÇÃO:
+
+	Dado um problema complexo, devemos quebrá-lo para resolver.
+
+Análise: Estudar e explorar o problema, conseguir decompor e realizar exame detalhado.
+Síntese: Combinar os elementos recompondo o problema original (processo de reconstrução). Reunir elementos distintos em um único elemento e fazer sentido.
+              Execução das tarefas menores: Sequencial (dependência entre tarefas, execução em fila); Paralelo (tarefas podem ser executadas concomitantemente).
+
+	Detectar variáveis, partir em pequenos problemas e segmentar os pequenos problemas.
+
+	Como decompor?
+	Problema principal em 2° plano, foco em "o que é preciso? Quais aspectos fundamentais para resolver o problema?". Separar componentes, identificar características e dependências.
+	
+	Identificar ou coletar dados --> Agregar os dados --> Funcionalidade
+	(Determinar etapas - Se-	 (Recompondo pro-      (Resultado do pro-
+	  quencial e Paralelo)	   blemas)		       blema)
+	*Entender o papel de cada
+	componente de funcionamento
+
+Exemplo: APP (Criar um APP)
+
+	* Finalidade: Pra que? Utilidade?
+	* Interface: Como vai comparecer?
+	* Funcionalidades: O que irá fornecer?
+	* Pré-requisitos: Aspectos que preciso para que o App funcione (funções)?
+
+Exemplo: Artigo (Escrever um artigo)
+
+	* O que será abordado?
+	* Estrutura?
+	* Conteúdo de cada tópico?
+	* Textos em conexão?
+
+
+RECONHECIMENTO DE PADRÕES
+
+	Padrão: Modelo base (referência) -> Estrutura invariante (não muda) -> Repetição
+
+	Reconhecimento do modelo: Quais as similaridades e diferenças?
+
+Exemplo: Compressão de dados por padrões (reconhecimento de padrões)
+
+	Por quê determinar padrões?
+	É uma forma de generalizar e otimizar.
+
+Classificação de objetos: Aspectos da classe, categoria.]
+
+	Como o computador reconhece padrões?
+	O ser humano reconhece por comparação (grau de similaridade, grupos conhecidos x objetos desconhecidos). Então simula-se este comportamento através do computador:
+
+	- Representação de atributos
+	- Aprendizado - conceito associado ao objeto
+	- Armazenar dados
+	- Regras de decisão
+
+Abordagem (Extração de características/Classificação de dados)
+					|
+					 --> Conceitos diferentes (Métodos/Aplicações)
+
+Aplicações do Reconhecimento de Padrões: 
+
+	* Classificação de dados
+	* Reconhecimento de imagem (placa de carro)
+	* Reconhecimento de fala (idioma)
+	* Análise de cenas (filmes e mídias)
+	* Classificação de documentos
+
+São usadas em: Machine Learning; Redes Neurais; Inteligência Artificial (IA); Ciência de Dados
+
+
+
+ABSTRAÇÃO
+
+	Observar (abstrair) diversos elementos (um ou mais), avaliando as características e propriedades em separado (individual).
+	É um processo intelectual de isolamento de um objeto da realidade.
+	Generalizar é tornar geral, mais amplo, mais extenso. Na lógica é a operação intelectual que consiste em reunir numa classe geral um conjunto de seres ou fenômenos similares.
+
+	Como classificar estes dados?
+	- Propriedades e características;
+	- Identificar pontos essenciais (peculiariaridades);
+	- Deixar de lado os detalhes e generalizar (classificar o objeto);
+
+	Desta forma consegue-se a representação do objeto.
+
+Exemplo: Representação do banco de dados de uma faculdade
+
+Características:
+
+	(Pontos essenciais para cadastro na faculdade)
+	* Nome completo
+	* Matrícula
+	* Endereço
+	* Campus
+	* Curso
+	* Telefone
+	* E-mail
+	(Características desnecessárias)
+	* Trabalho
+	* Tem filhos?
+	* Programa preferido
+	* Tamanho do calçado
+
+Esta separação feita no exemplo acima é a ABSTRAÇÃO, onde se priorizam os detalhes, mas somente os que são importantes para aquele momento.
+
+
+
+ALGORITMOS
+
+
+	Computador: Energia, trabalho, eficiência, rapidez --> Não opera sozinho, precisa de instruções detalhadas --> Ser humano
+	Objetivo: Recebe, manipula e armazena dados.
+	Resolução de problemas "step by step" (cria algoritmos) utilizando instruções (Ex.: O que precisa ser feito? Qual a ordem de execução das instruções?)
+	O algoritmo precisa ser entendido pelo ser humano e pela máquina.
+
+Desenvolvimento do programa: - Análise (Estudo e definição, quais dados serão inseridos)
+			  - Algoritmo (Descreve o problema por meio de ferramentas narrativas, fluxogramas, pseudocódigos, instruções detalhadas)
+			  - Codificação (O algoritmo é codificado de acordo com a linguagem de programação escolhido)
+
+Algoritmo é:
+	* Sequência de passos com objetivo definido;
+	* Execução de tarefas específicas (sem subjetividade);
+	* Conjunto de operações que resultam em uma sucessão finita de ações;
+
+Como construir um Algoritmo?:
+(não está codificado)	* Compreensão do problema
+			* Definição de dados de entrada
+			* Definir processamento
+			* Definir dados de saída
+			* Utilizar um método de construção
+			* Teste e diagnóstico
+
+Métodos:
+	Narrativa: Utilização da linguagem natural (Simples entendimento, sem conceitos novos)
+	Fluxograma: Utilização de símbolos pré-definidos (Simples entendimento, conhecimento prévio)
+	Pseudocódigo: Portugol (Parece linguagem de programação, mas utiliza um pouco da linguagem natural, porém tem regras bem definidas, sem margem de interpretação errada, passo a passo a ser seguido, parecido com codificação)

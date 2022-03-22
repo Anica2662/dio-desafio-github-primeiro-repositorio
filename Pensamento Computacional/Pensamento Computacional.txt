@@ -1,0 +1,44 @@
+**Pensamento Computacional (Compuacional Thinking)**
+
+	É o pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador.]
+
+	Formulação e resolução de problemas. Sistemático e eficiente. Ser humano e máquina podem entender. Habilidades são generalistas.
+
+	4 PILARES:
+		- Decomposição: Dividir um problema complexo em subproblemas;
+		- Reconhecimento de padrões: Similaridades ou diferenças entre os problemas. Tendências;
+		- Abstração: Explorar o conceito do problema para uma forma generalista (pegar o particular e generalizar);
+		- Design de Algoritmos: Automatizar, definir passo a passo a solução do problema.
+
+
+Entrada   -->  Conjunto de Operações  -->  Saída
+(Input)	     (Realizadas para solução)      (Output)
+
+
+	
+APERFEIÇOAMENTO
+
+Depois da solução.
+
+Ciclo: Análise --> Refinamento --> Teste --v
+             ^			  	   |
+             ^---------------------------------------------
+
+
+Melhoramento/Refinamento/Aprimoramento
+
+Abstração: Resolução de problema --> Automatização: Expressão da solução --> Análise: Execução da solução e avaliação (refinamento)
+(Ser Humano)							 (Computador)
+
+Melhor uso de recursos; Melhoria de algoritmos e códigos, presente em todo o processo de desenvolvimento, em todas as etapas.
+É um processo contínuo.
+
+
+
+RACIOCÍNIO LÓGICO	
+
+Pensamento estruturado que permite encontrar a conclusão ou determinar a resolução de um problema. É uma habilidade treinada!
+
+Indução: Dado um fenômeno, baseado na particularidade que experimentei e observei, externo e formo leis e teorias (experimentos);
+Dedução: Dado uma lei ou teoria, eu realizo dedução e formo previsões e explicações baseadas naquela lei/teoria (áreas das ciências exatas);
+Abdução: Utiliza uma conclusão para determinar a premissa (diagnósticos e áreas inestigativas);

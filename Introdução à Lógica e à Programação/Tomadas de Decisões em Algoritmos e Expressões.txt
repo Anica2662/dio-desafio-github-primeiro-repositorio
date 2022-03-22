@@ -1,0 +1,34 @@
+TOMADAS DE DECISÕES EM ALGORITMOS E EXPRESSÕES
+
+
+Expressões Aritméticas:
+
+	Utilizam operadores e funções aritméticas envolvendoo constantes e variáveis (Ex.: 50 + 50 = 100)
+
+	Operadores Aritméticos: Soma (+), Subtração (-), Multiplicação (*), Divisão (/), Potenciação (^), Porcentagem (%), etc.
+
+Expressões Literais:
+
+	Constantes e/ou variáveis com resultados são valores literais. (Ex: Nome = (ou símbolo <-) "João da Silva";)
+
+Expressões Relacionais:
+
+	Expressões compostas por outras expressões ou variáveis numéricas com operadores relacionais.
+	Elas retornam valores lógicos: SIM ou NÃO (Verdadeiro ou Falso).
+
+	Operadores relacionais: Maior que (>), Maior ou Igual (>=), Menor que (<), Menor ou Igual (<=), Igualdade/Comparação (==), Diferente de (!= ou <>)
+
+Tomadas de decisão:
+
+	Necessidade de decidir o que fazer dependendo de alguma condição encontrada durante a execução. ("SE")
+
+
+CONCATENAÇÃO
+
+	Como usar a concatenação?
+	Termo utilizado em computação para designar a operação de "unir" o conteúdo de duas strings*. 
+	Agrupamento de duas ou mais células que (incluindo fórmulas, textos ou outras informações contidas no seu interior) dá origem a um único resultado.
+
+	Símbolos utilizados para concatenação: (&, +, .)
+
+* String = Sequência de caracteres

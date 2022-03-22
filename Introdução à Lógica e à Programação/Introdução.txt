@@ -1,0 +1,10 @@
+INTRODUÇÃO À LÓGICA E À PROGRAMAÇÃO
+
+
+	Programação é resolver problemas. Habilidades em lógica.
+	Lógica é coerênciade raciocínio e ideias.
+	Lógica de programação é contextualizar a lógica na programação de computadores.
+
+	Metacognição: Pensar como você pensa.
+
+	Abstração na programação: Habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando características menos importantes ou não essenciais.
